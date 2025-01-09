@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EasyChart"
 include(":app")
+include(":easychart")
